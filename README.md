@@ -1,13 +1,15 @@
 Laporan: 
 1.	Latar belakang:
 Manajemen gudang merupakan salah satu komponen penting dalam rantai pasok perusahaan, khususnya dalam menjaga ketersediaan stok barang. Permasalahan klasik seperti keterlambatan pencatatan, data stok tidak akurat, hingga kesalahan pengambilan barang sering terjadi akibat sistem pencatatan manual atau kurang terintegrasi. Untuk mengatasi hal tersebut, diperlukan sistem pencatatan stok berbasis digital yang mampu mencatat, memantau, dan memperbarui data barang secara real-time, guna meningkatkan efisiensi operasional dan akurasi data.
-2.	Tujua:
+
+2.	Tujuan:
 Membuat sistem pencatatan stok pada gudang yang terkomputerisasi:
 •	Mengurangi kesalahan pencatatan manual
 •	Memudahkan pelacakan keluar-masuk barang
 •	Menyediakan laporan stok secara cepat dan akurat
 •	Mendukung pengambilan keputusan berbasis data
-3.	Alur;
+
+4.	Alur;
 Login: User masuk ke sistem menggunakan akun masing-masing
 Dashboard: Menampilkan ringkasan stok, aktivitas terakhir, dan notifikasi
 Manajemen Barang:
@@ -23,7 +25,7 @@ o	Laporan stok akhir
 o	Riwayat transaksi barang
 o	Filter laporan berdasarkan tanggal/kategori
 
-4.	 Aktor pada Sistem
+5.	 Aktor pada Sistem
 Admin Gudang:
 o	Manajemen data barang
 o	Input dan update stok
@@ -33,8 +35,19 @@ o	Monitoring dashboard dan laporan
 o	Melakukan analisis dan evaluasi stok
 Petugas Input:
 o	Melakukan entri data barang masuk/keluar berdasarkan dokumen fisik
-5.	Rencana fitur
-•	user (login & logout)
-•	CRUD Data Barang
-•	Pencatatan barang masuk dan keluar
-•	Laporan stok dan transaksi 
+
+6.	Rencana Fitur:
+o	user (login & logout)
+o	CRUD Data Barang 
+o	Pencatatan barang masuk dan keluar 
+o	Laporan stok dan transaksi
+
+7.	Tahap Implementasi:
+o	Analisis Kebutuhan
+Mengumpulkan kebutuhan system dan merancang alur
+o	Perancangan Sistem
+Desain database dan user interface
+o	Implementasi
+Pembuatan fitur sesuai alur sistem
+o	Pengujian
+Uji coba system dan perbaikan bug
