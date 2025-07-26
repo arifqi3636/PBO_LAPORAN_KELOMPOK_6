@@ -6,7 +6,7 @@ Dosen Pengampu: Muhammad Ikhwan Fathulloh
 ## Profil
 - M. Syahdanu Al Ghifary (23552011019)
 - Rio Permana (23552011057)
- - Zulfa Arifqi(23552011319)
+- Zulfa Arifqi (23552011319)
 
 Studi kasus: Manajamen Gudang
 
@@ -23,6 +23,7 @@ Membuat sistem pencatatan stok pada gudang yang terkomputerisasi:
 •	Memudahkan pelacakan keluar-masuk barang
 •	Menyediakan laporan stok secara cepat dan akurat
 •	Mendukung pengambilan keputusan berbasis data
+
 4.	Alur;
 Login: User masuk ke sistem menggunakan akun masing-masing
 Dashboard: Menampilkan ringkasan stok, aktivitas terakhir, dan notifikasi
@@ -38,6 +39,7 @@ Laporan:
 o	Laporan stok akhir
 o	Riwayat transaksi barang
 o	Filter laporan berdasarkan tanggal/kategori
+
 5.	 Aktor pada Sistem
 Admin Gudang:
 o	Manajemen data barang
@@ -54,6 +56,7 @@ o	user (login & logout)
 o	CRUD Data Barang 
 o	Pencatatan barang masuk dan keluar 
 o	Laporan stok dan transaksi
+
 7.	Tahap Implementasi:
 o	Analisis Kebutuhan
 Mengumpulkan kebutuhan system dan merancang alur
@@ -69,12 +72,14 @@ Uji coba system dan perbaikan bug
 
 
 2. Encapsulation
-3. 3. Polymorphism
+
+
+3. Polymorphism
 
 
 4. Abstract
 
 
 ## Demo Proyek:
-Github:
+Github: https://github.com/syahdanu-cyber/PBO_UAS_INVENTORY_MANAJEMENT_KELOMPOK-6/tree/main/src/main/java/com/mycompany/inventoryapp
 Youtube:
